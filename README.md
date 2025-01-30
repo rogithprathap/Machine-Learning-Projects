@@ -1,23 +1,3 @@
-<div align="center">
-  <h1><a href="https://shsarv.github.io/Machine-Learning-Projects/">Machine Learning Projects</a></h1>
-  <img alt="GIF" src="Resources/banner.gif" />
-</div>
-
-<p align="center">
-  <a href="https://github.com/shsarv/Machine-Learning-Projects"><strong>Explore the docs »</strong></a>
-  <br/>
-  <a href="https://github.com/shsarv/Machine-Learning-Projects/issues">Report Bug</a>
-  ·
-  <a href="https://github.com/shsarv/Machine-Learning-Projects/issues">Request Feature</a>
-</p>
-
-![Contributors](https://img.shields.io/github/contributors/shsarv/Machine-Learning-Projects?color=dark-green)
-![Forks](https://img.shields.io/github/forks/shsarv/Machine-Learning-Projects?style=social)
-![Stargazers](https://img.shields.io/github/stars/shsarv/Machine-Learning-Projects?style=social)
-![Issues](https://img.shields.io/github/issues/shsarv/Machine-Learning-Projects)
-![License](https://img.shields.io/github/license/shsarv/Machine-Learning-Projects)
-
-----
 
 ## Project Overview
 
@@ -179,10 +159,3 @@ For a deeper understanding of AI, machine learning, and data science, I recommen
 
 Distributed under the MIT License. See [LICENSE](https://github.com/shsarv/Machine-Learning-Projects/blob/main/LICENSE.md) for more information.
 
-## Maintained By
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/shsarv"><img src="https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="100px;" alt=""/><br /><sub><b>Sarvesh Sharma</b></sub></a><br /><a href="https://github.com/shsarv" title="github"><img src="https://img.shields.io/github/followers/shsarv?style=social"></a> <a href="https://twitter.com/sarveshroli/" title="twitter"><img src="https://img.shields.io/twitter/follow/sarveshroli?label=twitter&style=social"></a></td>
-   <tr>
-  <table>
